@@ -6,7 +6,7 @@
 }
 
 body{
-    display: grid;
+    display: flex;
     height: 100vh;
     justify-content: center;
     align-items: center;
@@ -22,6 +22,8 @@ body{
     margin: 0 28px;
     border-radius: 10px;
     box-shadow: inset -2px 2px 2px white;
+    background: url(pexels-aron-visuals-1743165.jpg);
+    background-size: cover;
 }
 
 .form-title{
