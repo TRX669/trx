@@ -3,7 +3,11 @@
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    
+     
+    
 }
+
 
 body{
     display: flex;
@@ -93,8 +97,15 @@ body{
 
 .form-submit-btn{
     margin-top: 40px;
+    
 }
-
+.trx7{
+    margin-left: auto;
+margin-right: auto;
+}
+.trx8{
+    margin-left: auto;
+}
 .form-submit-btn input{
     display: block;
     width: 100%;
